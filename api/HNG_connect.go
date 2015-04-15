@@ -1,10 +1,10 @@
-package homeNxtGen
+package hng
 
 import (
 	"fmt"
 	"net/rpc"
 
-	"github.com/kteza1/homeNxtGen-framework/bus"
+	"github.com/kteza1/hng-framework/bus"
 	//"github.com/kteza1/go-ninja/rpc/json2"
 )
 

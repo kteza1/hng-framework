@@ -7,7 +7,7 @@ import (
 	"time"
 
 	proto "github.com/huin/mqtt"
-	"github.com/kteza1/homeNxtGen-framework/config"
+	"github.com/kteza1/hng-framework/config"
 	"github.com/ninjasphere/mqtt"
 )
 
